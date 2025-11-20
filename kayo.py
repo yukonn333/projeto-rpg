@@ -5,7 +5,7 @@ from typing import List, Optional
 
 
 class Dado:
-    """Questão 24 (20 pts): classe utilitária para rolar dados."""
+
     @staticmethod
     def rolar(min_val: int = 1, max_val: int = 6) -> int:
         return random.randint(min_val, max_val)
@@ -366,5 +366,6 @@ def run_demo():
 if __name__ == '__main__':
     run_tests()
     run_demo()
+
 
 
