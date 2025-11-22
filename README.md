@@ -1,5 +1,5 @@
 # projeto-rpg
-projeto em python (projeto fauculdade)
+projeto em python 
 
 NÍVEL BÁSICO 
 Questões Implementadas
